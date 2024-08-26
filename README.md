@@ -12,4 +12,6 @@ Using consumer complaint data from American bank, a popular US bank, we visualis
 
 ## Content
 
-1. Code
+1. Proposal Presentation
+: 
+2. Final 
