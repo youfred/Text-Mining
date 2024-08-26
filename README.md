@@ -7,7 +7,7 @@ Using consumer complaint data from American bank, a popular US bank, we visualis
 |Name|Major|Role|
 |---|---|---|
 |Park Sang Beom| Koean Law and Data Science| Analyze Text sentiment and Visualisation |
-|Park Ye Euen| Life Science and AI| Analyse Text Slimilarity |
+|Park Ye Euen| Life Science and AI| Analyze Text Slimilarity |
 |Joo Euen Sung| Economics and AI| EDA and Presenatation|
 
 ## Content
